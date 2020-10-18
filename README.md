@@ -15,7 +15,7 @@ For the webpage to meet accessibility standards, HTML elements are made semantic
 * HTML
 * CSS
 
-
+## Screenshot
 ![screenshot](https://github.com/zeroshii/Code-Refactor/blob/master/01-html-css-git-homework-demo.png)
 
 ## Credit
